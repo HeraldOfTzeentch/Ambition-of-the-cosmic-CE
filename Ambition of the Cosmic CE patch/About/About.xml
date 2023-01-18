@@ -29,7 +29,7 @@
     <li>explodoboy.SNSAmbitionCosmic.TimelessSpeciesMod</li>
     <li>explodoboy.SNSAmbitionCosmic.Gen4Addon</li>
   </loadAfter>
-<description>Mod Version: 1.0 "Are you happy, now?"
+<description>
 unofficial update to explodoboys mod to make it work with his 1.4 version of AoC and Combat extended for now has same issues as old patch(turrets and abstion of stability) but im planning to figure those out in the future. If you wish to help there is a github repository .
 </description>
 </ModMetaData>
