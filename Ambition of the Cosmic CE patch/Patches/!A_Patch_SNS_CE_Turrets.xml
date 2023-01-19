@@ -131,6 +131,14 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_LightCosmic"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
+
 
 						<!-- Perdition Light Stellar Turret -->
 
@@ -214,6 +222,14 @@
 							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionLightCosmic"]/tradeTags</xpath>
 							<value>
 								<li>CE_Turret</li>
+							</value>
+						</li>
+
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionLightCosmic"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
 							</value>
 						</li>
 
@@ -303,6 +319,14 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_Cosmic"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
+
 
 						<!-- Perdition Cosmic Turret -->
 
@@ -389,6 +413,14 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionCosmic"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
+
 
 						<!-- Overcharged Cosmic Turret -->
 
@@ -471,6 +503,13 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_EternalCosmic"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
 
 						<!-- Perdition Overcharged Cosmic Turret -->
 
@@ -553,6 +592,13 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_EternalPerditionCosmic"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
 
 						<!-- Catalyst Turret -->
 
@@ -635,6 +681,13 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_Sniper"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
 
 						<!-- Overdrive Catalyst Turret -->
 
@@ -721,6 +774,13 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionSniper"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
 
 						<!-- Automated Lance -->
 
@@ -806,6 +866,14 @@
 							<xpath>Defs/ThingDef[defName="SNS_Turret_Lance"]/tradeTags</xpath>
 							<value>
 								<li>CE_Turret</li>
+							</value>
+						</li>
+
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_Lance"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
 							</value>
 						</li>
 
@@ -897,6 +965,14 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_HighStorageLance"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
+
 
 						<!-- Overdrive Lance -->
 
@@ -982,6 +1058,14 @@
 							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionLance"]/tradeTags</xpath>
 							<value>
 								<li>CE_Turret</li>
+							</value>
+						</li>
+
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionLance"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
 							</value>
 						</li>
 
@@ -1073,6 +1157,13 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_PerditionHighStorageLance"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
 
 						<!-- TEMPLATE -->
 
@@ -1154,6 +1245,14 @@
 							<xpath>Defs/ThingDef[defName="SNS_Turret_EternalLance"]/tradeTags</xpath>
 							<value>
 								<li>CE_Turret</li>
+							</value>
+						</li>
+
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_EternalLance"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
 							</value>
 						</li>
 
@@ -1241,6 +1340,13 @@
 							</value>
 						</li>
 
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_EnigmaticLance"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
+							</value>
+						</li>
 
 						<!-- Automated EXARCH -->
 
@@ -1303,6 +1409,7 @@
 						</AmmoUser>
 					</li>
 
+
 						<!-- Add trade tags -->
 
 						<li Class="PatchOperationSequence">
@@ -1325,6 +1432,14 @@
 							<xpath>Defs/ThingDef[defName="SNS_Turret_EXARCH"]/tradeTags</xpath>
 							<value>
 								<li>CE_Turret</li>
+							</value>
+						</li>
+
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_EXARCH"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
 							</value>
 						</li>
 
@@ -1408,6 +1523,14 @@
 							<xpath>Defs/ThingDef[defName="SNS_Turret_EternalEXARCH"]/tradeTags</xpath>
 							<value>
 								<li>CE_Turret</li>
+							</value>
+						</li>
+
+						<!-- Turret height fix -->
+						<li Class="PatchOperationReplace">
+							<xpath>Defs/ThingDef[defName="SNS_Turret_EternalEXARCH"]/fillPercent</xpath>
+							<value>
+								<fillPercent>0.7</fillPercent>
 							</value>
 						</li>
 
